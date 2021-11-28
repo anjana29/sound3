@@ -1,0 +1,33 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    background-color:#66ccff ;
+}
+.header_div{
+    background-color: #b3ffda;
+    color:#ff4d94;
+}
+.header_div p{
+    font-family: monospace;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width:120px ;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    background-color:#e6e6ff ;
+    color:#e60073;
+    width: 100%;
+    font-size: 19px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149); 
+
+
+
+}
